@@ -10,7 +10,9 @@
       "url": "https://in.pycon.org/2018/#schedule"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Armin Ronacher"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/-4fzFKihmJw/hqdefault.jpg",
   "title": "1st Keynote by Armin Ronacher",
